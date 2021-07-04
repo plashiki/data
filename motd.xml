@@ -1,0 +1,111 @@
+<list>
+<motd start="2021-07-03" end="2025-01-01">
+<text lang="ru">
+<h3>Привет! <small>(и пока)</small></h3>
+<p>
+Об этом грустно говорить, но PlaShiki близится к концу своей жизни. Часть функций (в частности, ручное добавление видео и репорты)
+были отключены, и <b>15 августа 2021 года</b> сервер будет окончательно выключен.
+</p>
+
+<p>
+<b>Почему?</b><br/>
+На самом деле, причин много. В частности, я делала этот проект в первую очередь для себя, но недавно поняла, что совсем им не пользуюсь.<br/>
+Во-вторых, эта область и так очень перенасыщена, и полностью автоматические системы оказались не конкурентоспособны.<br/>
+И, наконец, я просто устала (в том числе от хейта со стороны <i>отдельных личностей</i> в сообществе).
+</p>
+
+<p>
+<b>Что с деньгами?</b><br/>
+Я задумывала PlaShiki как открытый и некоммерческий проект, и хочу, чтобы он оставался таким до конца.<br/>
+Деньги, оставшиеся на счету проекта, пойдут модераторам сайта как оплата за их нелегкий труд
+(я также добавлю из кармана, чтобы чувствовать меньше вины перед ними).<br/>
+В случае их отказа, они пойдут в благотворительные фонды.
+</p>
+
+<p>
+<b>Что теперь?</b><br/>
+15 августа 2021 года сервер будет окончательно выключен. Затем, до истечения срока домена (3 мая 2022), на сайте будет висеть заглушка,
+а API будет отдавать ошибку <code>EOL_REACHED</code>.<br/>
+Поскольку списки синхронизируются с Шикимори, с ними ничего не произойдет.<br/>
+В 20-х числах августа, я сделаю дамп базы данных и опубликую его как общественное достояние.<br/>
+Исходный код останется на <a href="//github.com/plashiki">GitHub</a>.
+</p>
+
+<p>
+Как я уже написала, область очень перенасыщена, и есть много альтернатив:
+<ul>
+<li><a href="//wakanim.tv">wakanim.tv</a>, <a href="//www.crunchyroll.com">crunchyroll.com</a>, <a href="//netflix.com">netflix.com</a> – легальные стриминги.</li>
+<li><a href="//nekomori.ch">nekomori.ch</a> – очень похожий по своей идее проект, появившийся примерно в то же время что и PlaShiki, и активно развивается и поддерживается.</li>
+<li><a href="//smotret-anime.online">Anime365</a> – платный пиратский стриминговый сервис, и достаточно неплохой, несмотря ни на что.</li>
+<li><a href="http://anilabx.mangawatcherx.com">AniLabX</a> – несмотря на <i>разногласия</i> с разработчиком, неплохое приложение, которое теперь <i>(вроде бы?)</i> еще и на ПК есть.</li>
+<li><a href="//animego.org">animego.org</a>, <a href="//jut.su">jut.su</a>, <a href="//yummyanime.club">yummyanime.club</a> и другие – русскоязычные бесплатные пиратские стриминги.</li>
+<li><a href="//twist.moe">twist.moe</a>, <a href="//9anime.to">9anime.to</a>, и многие <a href="//piracy.moe">другие</a> – англоязычные бесплатные пиратские стриминги.</li>
+<li><a href="//rutracker.org">rutracker.org</a>, <a href="//nyaa.si">nyaa.si</a>, <a href="//subsplease.org">subsplease.org</a> – торренты, в представлении не нуждаются.</li>
+</ul>
+</p>
+
+<p>
+Спасибо за вашу поддержку эти 2 года! ❤️<br/>
+Несмотря ни на что, это был хороший опыт, и я очень благодарна за это.
+</p>
+
+<p align="right">
+<i>Алиса, разработчик</i> 🌸
+</p>
+</text>
+<text lang="en">
+<h3>Hello! <small>(and goodbye)</small></h3>
+<p>
+It is sad to announce that, but PlaShiki is reaching its end of life. Some functionality (particularly, manual video addition and reports)
+were disabled, and on <b>August 15th, 2021</b> the server will be shut down forever.
+</p>
+
+<p>
+<b>Why?</b><br/>
+To be honest, there are quite a few reasons. First of all, I developed this project primarily for myself, but recently found out that
+I don't actually use it at all.<br/>
+Secondly, this field is oversaturated as is, and fully automated systems turned up not to be competitive.<br/>
+And lastly, I'm just tired (including hate from <i>some individuals</i> in the community).
+</p>
+
+<p>
+<b>What about money?</b><br/>
+I conceived PlaShiki as an open and non-commercial project, and I want it to say like this till the end.<br/>
+Money that is left in project's budget will go towards our moderators as a payment for their labor
+(I will also add my own money, to not feel guilty about them).<br/>
+In case they refuse, the money will go to charity.
+</p>
+
+<p>
+<b>What now?</b><br/>
+On August 15th, 2021 the server will be shut down forever. Then, until the domain expires (May 3rd, 2022), the website
+will contain a dummy page, and API will return error <code>EOL_REACHED</code>.<br/>
+Since user lists are synchronized with Shikimori, nothing will happen to them.<br/>
+Around August 20th, I will dump the database and publish it as public domain.<br/>
+Project source code will still be available on <a href="//github.com/plashiki">GitHub</a>.
+</p>
+
+<p>
+As I have already stated, field is oversaturated, and there are many alternatives:
+<ul>
+<li><a href="//wakanim.tv">wakanim.tv</a>, <a href="//www.crunchyroll.com">crunchyroll.com</a>, <a href="//netflix.com">netflix.com</a> – legal streamings.</li>
+<li><a href="//nekomori.ch">nekomori.ch</a> – very similar project, founded around the same time as PlaShiki, and is still developed and maintained.</li>
+<li><a href="//smotret-anime.online">Anime365</a> – paid non-legal streaming, which is pretty good, no matter what.</li>
+<li><a href="http://anilabx.mangawatcherx.com">AniLabX</a> – despite the <i>disagreements</i> with the developer, not a bad app, which now <i>(seems to?)</i> also have a PC version.</li>
+<li><a href="//animego.org">animego.org</a>, <a href="//jut.su">jut.su</a>, <a href="//yummyanime.club">yummyanime.club</a> and others – Russian-language free non-legal streamings.</li>
+<li><a href="//twist.moe">twist.moe</a>, <a href="//9anime.to">9anime.to</a>, and many <a href="//piracy.moe">others</a> – English-language free non-legal streamings.</li>
+<li><a href="//rutracker.org">rutracker.org</a>, <a href="//nyaa.si">nyaa.si</a>, <a href="//subsplease.org">subsplease.org</a> – torrents, need no introduction.</li>
+</ul>
+</p>
+
+<p>
+Thanks for your support during these 2 years! ❤️<br/>
+Despite everything, this was a good experience, and I'm very grateful for that.
+</p>
+
+<p align="right">
+<i>Alisa, developer</i> 🌸
+</p>
+</text>
+</motd>
+</list>
